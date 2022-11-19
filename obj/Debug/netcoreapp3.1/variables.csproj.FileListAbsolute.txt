@@ -1,0 +1,14 @@
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.exe
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.deps.json
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.json
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.dev.json
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.dll
+C:\Users\macie\repos\variables\bin\Debug\netcoreapp3.1\variables.pdb
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.csproj.AssemblyReference.cache
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfoInputs.cache
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfo.cs
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.csproj.CoreCompileInputs.cache
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.dll
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.pdb
+C:\Users\macie\repos\variables\obj\Debug\netcoreapp3.1\variables.genruntimeconfig.cache
